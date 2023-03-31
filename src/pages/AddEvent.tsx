@@ -82,7 +82,7 @@ function AddEventForm() {
         <>
         
         <Form className="container d-flex flex-column gap-2">
-        <h3 className='text-muted text-uppercase'>Strona wydarzenia</h3>
+        <h3 className='text-muted text-uppercase'>Formularz dodawania wydarzenia</h3>
         
           <div className='d-flex flex-column'>
             <div className='d-flex justify-content-between my-4'>

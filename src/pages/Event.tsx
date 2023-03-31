@@ -41,7 +41,7 @@ const [eventId, setEventId] = useState<eventProps>();
     <>
     
       <div className="container">
-      <h3 className='text-muted'>Strona wydarzenia</h3>
+      <h3 className='text-muted text-uppercase'>Strona wydarzenia</h3>
     <div className="row">
     <p className="text-left mb-3"><strong>Kategoria:</strong> {eventId?.rodzaj}</p>
       <div className="d-flex flex-column justify-content-"> 
