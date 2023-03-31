@@ -1,0 +1,17 @@
+header {
+    background-color: rgb(192, 192, 192);
+}
+
+.active {
+    background-color: grey;
+    color:  white !important;
+}
+
+.nav-item {
+    text-decoration: none;
+    color: inherit;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
